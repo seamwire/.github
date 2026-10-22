@@ -8,6 +8,10 @@ Based in Bengaluru, India, working with companies worldwide.
 
 - [**ai-crawler-checker**](https://github.com/seamwire/ai-crawler-checker): check whether ChatGPT, Perplexity, Claude, Google and Bing crawlers can read your website. RFC 9309 robots.txt parsing, readable-text and llms.txt checks, no dependencies. Web version: [seamwire.com/tools/ai-crawler-checker](https://www.seamwire.com/tools/ai-crawler-checker)
 
+### Research
+
+- [**Can AI read India's and the UAE's biggest companies?**](https://www.seamwire.com/research/ai-access-india-uae-2026) How 200 of the largest companies treat AI crawlers: robots.txt, firewalls, JavaScript and llms.txt. Data and code: [ai-access-study-2026](https://github.com/seamwire/ai-access-study-2026) (CC BY 4.0).
+
 ### Read
 
 - [How to get your business recommended by ChatGPT](https://www.seamwire.com/guides/how-to-get-recommended-by-chatgpt)
